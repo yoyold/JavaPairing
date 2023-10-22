@@ -1,0 +1,30 @@
+CIG16 Spilimbergo
+Spilimbergo it  02/02/2014 / 02/02/2014
+ S  16  5  1 #1.6#
+ ttt. rrr nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv lll ffffffffff pppppppppp gggggggg eeee dddd  zzzzz mmmm  
+   1.   1 CERVESATO Alessio                                                 PN           0              030900      1473  13536    0  0W  9 1B  8 RW 13 1B 14 1B 15 
+   2.   2 BANJAC ADAM                                                                                 16/11/05      1440  15854    0  1B 10 0W 12 RW 14 0B 13 1W  4 
+   3.   3 BRECELJ JARO IVAN                                                                           28/01/02      1440  15546    0  1W 11 1B 13 1W  9 1B 12 1W  6 
+   4.   4 BRECELJ JASNA                                                                               20/09/05      1440  16256    0  0B 12 1W 10 0B 15 0W  8 0B  2 
+   5.   5 CLOCCHIATTI LUCA                                                                            28/04/04      1440  16281    0  0W 13 0B 11 0W  8 1B 10 RW  7 
+   6.   6 CUCCHIARO STEFANO                                                                           19/06/02      1440  15220    0  1B 14 1W 15 0B 12 1W 16 0B  3 
+   7.   7 D'INCECCO LEONARDO                                                                          21/07/06      1440  16244    0  0W 15 0B 14 RW 10 RB 11 RB  5 
+   8.   8 GUBIANI MATTEO                                                                              19/04/02      1440  15940    0  0B 16 0W  1 1B  5 1B  4 0W 13 
+   9.   9 GURNARI ROBERTO                                                                             04/01/00      1440  15351    0  1B  1 1W 16 0B  3 1W 15 1W 12 
+  10.  10 NICOLETTI MATTIA                                                                            24/01/06      1440      0    0  0W  2 0B  4 RB  7 0W  5 0W 11 
+  11.  11 O'DONOVAN BRIAN                                                                             28/10/02      1440      0    0  0B  3 1W  5 0B 16 RW  7 1B 10 
+  12.  12 SCARINZI THOMAS                                                                             26/06/00      1440  15813    0  1W  4 1B  2 1W  6 0W  3 0B  9 
+  13.  13 SERBAN ANGELES SAMUEL                                                                       15/07/00      1440  15780    0  1B  5 0W  3 RB  1 1W  2 1B  8 
+  14.  14 SIMONI PIETRO                                                                               28/03/03      1440  15768    0  0W  6 1W  7 RB  2 0W  1 RB 16 
+  15.  15 ZORINO LEONARDO                                                                             31/05/04      1440      0    0  1B  7 0B  6 1W  4 0B  9 0W  1 
+  16.  16 PIASENTIN Diego                                                   PN           0              160198      1341  15017    0  1W  8 0B  9 1W 11 0B  6 RW 14 
+###
+Name:       CIG16 Spilimbergo                                           
+Ort:        Spilimbergo                                                 
+FIDE-Land:  it                                      
+Datum(S):   02/02/2014          Datum(E):   02/02/2014          
+Z�ge(1):                         Z�ge(2):                         Z�ge(3):                         
+Hauptschiedsrichter:Sigana Salvatore                                            
+Weitere Schiedsrichter:                                                            
+Anwender:                                                                    
+Ser.Nummer:                                                                  
